@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.f254392f.css",
-    "main.js": "/static/js/main.3cedc78f.js",
+    "main.css": "/static/css/main.48d86ff0.css",
+    "main.js": "/static/js/main.a4ca0f60.js",
     "static/js/787.ee0dcc0c.chunk.js": "/static/js/787.ee0dcc0c.chunk.js",
     "static/media/user1.svg": "/static/media/user1.a5cc8422b20bd5f3dd0f3e3750b67b71.svg",
     "static/media/user6.svg": "/static/media/user6.de7f6ef3c62ce03eb37338821038f6c0.svg",
     "static/media/pngwing.svg": "/static/media/pngwing.43e1ccf9aace17b9bb5fb19c704dba3d.svg",
     "static/media/wheel.png": "/static/media/wheel.6b05e82e22f7e8936d41.png",
     "static/media/Illustration.svg": "/static/media/Illustration.4fa3cbb76dc36f0766651da0ca881879.svg",
-    "static/media/ludo.png": "/static/media/ludo.ca255bccfdf137d12069.png",
     "static/media/user2.svg": "/static/media/user2.d69586b56ecb37c4665af358fe51fda6.svg",
     "static/media/game8.svg": "/static/media/game8.4fc38885742432a2a9ef215f12fb1661.svg",
     "static/media/game2.svg": "/static/media/game2.7c1bea2107b90a1a178967236d9158ec.svg",
@@ -61,12 +60,12 @@
     "static/media/rightarrow.svg": "/static/media/rightarrow.d3caa21f2dc2e12bea06.svg",
     "static/media/accordion-icon.svg": "/static/media/accordion-icon.f37e471586ae22c8875b.svg",
     "static/media/filter.svg": "/static/media/filter.424de6a6c2f659dc2861981dd9851817.svg",
-    "main.f254392f.css.map": "/static/css/main.f254392f.css.map",
-    "main.3cedc78f.js.map": "/static/js/main.3cedc78f.js.map",
+    "main.48d86ff0.css.map": "/static/css/main.48d86ff0.css.map",
+    "main.a4ca0f60.js.map": "/static/js/main.a4ca0f60.js.map",
     "787.ee0dcc0c.chunk.js.map": "/static/js/787.ee0dcc0c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f254392f.css",
-    "static/js/main.3cedc78f.js"
+    "static/css/main.48d86ff0.css",
+    "static/js/main.a4ca0f60.js"
   ]
 }
