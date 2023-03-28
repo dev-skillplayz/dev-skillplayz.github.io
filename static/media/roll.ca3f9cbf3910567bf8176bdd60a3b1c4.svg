@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="21px" viewBox="0 0 22 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="05-Dice-/-Switch-button" transform="translate(-14.000000, -15.000000)">
+            <g id="Group-4">
+                <g id="Group" transform="translate(14.000000, 15.000000)">
+                    <path d="M6,0 L5.93385936,0.0836246039 L3.594,3 L15,3 L15,5 L3.54,5 L5.93385936,8 L3.16583894,8 L0,4.03148989 L3.16583894,0.0836246039 L3.23239731,0 L6,0 Z" id="Combined-Shape" fill="#00EE5C"></path>
+                    <path d="M13,13 L12.9338594,13.0836246 L10.594,16 L22,16 L22,18 L10.54,18 L12.9338594,21 L10.1658389,21 L7,17.0314899 L10.1658389,13.0836246 L10.2323973,13 L13,13 Z" id="Combined-Shape" fill="#FF5548" transform="translate(14.500000, 17.000000) scale(-1, 1) translate(-14.500000, -17.000000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
